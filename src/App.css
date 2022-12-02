@@ -1,0 +1,8 @@
+.App{
+    margin: 20px;
+}
+
+.profile-card{
+    display: flex;
+    flex-wrap: wrap;
+}
